@@ -1,4 +1,4 @@
-# Aoki-Denshou-Welsh-Shedar-english-subtitles
+# Aoki Denshou: Welsh & Shedar english subtitles
 Unofficial fan-made English subtitles for the anime Aoki Denshou; Welsh &amp; Shedar
 This repository contains English subtitles in Advanced SubStation Alpha (`.ass`) format for the anime **Aoki Denshou Welsh & Shedar** (青き伝承 ヴェルシュ＆シェダル).
 
