@@ -24,7 +24,6 @@ If you wish to modify fonts, styling, or timing, open the `.ass` file using [Aeg
 
 ## 🔗 Where to Find Releases
 You can download the full batches and video releases on:
-* **AnimeTosho / NekoBT**
 * **[Google Drive](https://drive.google.com/drive/folders/1JMDncQSv6opYdB_tkDA3boy4ZaS5AvOv?usp=drive_link)**
 
 ## 📜 License & Credits
